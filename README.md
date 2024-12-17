@@ -1,3 +1,11 @@
+Analyzed with SonarQube Cloud:  
+| [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Tim-Pohlmann_NanowarHelloWorld&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Tim-Pohlmann_NanowarHelloWorld) | [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Tim-Pohlmann_NanowarHelloWorld&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=Tim-Pohlmann_NanowarHelloWorld) |
+| ---- | --- |
+| [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Tim-Pohlmann_NanowarHelloWorld&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=Tim-Pohlmann_NanowarHelloWorld) | [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Tim-Pohlmann_NanowarHelloWorld&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Tim-Pohlmann_NanowarHelloWorld) |
+| [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Tim-Pohlmann_NanowarHelloWorld&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Tim-Pohlmann_NanowarHelloWorld) | [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Tim-Pohlmann_NanowarHelloWorld&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Tim-Pohlmann_NanowarHelloWorld) |
+| [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=Tim-Pohlmann_NanowarHelloWorld&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=Tim-Pohlmann_NanowarHelloWorld) | [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=Tim-Pohlmann_NanowarHelloWorld&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=Tim-Pohlmann_NanowarHelloWorld) |
+| [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=Tim-Pohlmann_NanowarHelloWorld&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=Tim-Pohlmann_NanowarHelloWorld) | |
+
 # HelloWorld.java
 
 ![thumbnail](./Thumbnail.jpeg)
